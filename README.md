@@ -7,11 +7,19 @@ Set audio file name in line 6 of main.py
 
 
 Package dependencies:
+
 moviepy:	1.0.3
+
 torch:		1.10.2
+
 torchaudio:	0.10.2
+
 parselmouth:	0.4.1
+
 transformers:	4.17.0
+
 json:		2.0.9
+
 pandas:		1.3.5
+
 numpy:		1.21.2
