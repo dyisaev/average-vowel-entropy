@@ -1,4 +1,4 @@
-Download phoneme recognition model from the link below and extract to 'wav2vec2_phonemes_model/' subfolder
+Download phoneme recognition model from the link below and extract to **wav2vec2_phonemes_model** subfolder
 https://duke.box.com/s/buggdsn059i5pb0gxbvixvxp773rtefn
 
 See main.py for the example of the code for extracting Average Vowel Entropy and Mean Intensity Standard Deviation
